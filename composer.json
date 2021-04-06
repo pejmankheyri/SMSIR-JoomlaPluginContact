@@ -1,0 +1,15 @@
+{
+    "name": "pejmankheyri/smsir-joomla-plugin-contact",
+    "description": "send sms via sms.ir",
+    "keywords": ["php", "php8.0", "php7.4", "php7.3", "php7.2", "php5.6", "sms", "sms-notifications", "joomla", "plugin", "joomla3.9", "joomla3.5", "joomla2.5"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pejmankheyri",
+            "email": "pejmankheyri@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}

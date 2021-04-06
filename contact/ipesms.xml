@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.3" type="plugin" group="contact" method="upgrade">
+    <name>plg_contact_sms_notification</name>
+    <author>Pejman Kheyri</author>
+    <creationDate>April 2021</creationDate>
+    <license></license>
+    <version>1.0.0</version>
+    <description>PLG_CONTACT_SMS_NOTIFICATION_XML_DESCRIPTION</description>
+    <files>
+        <filename plugin="ipesms">ipesms.php</filename>
+        <filename>index.html</filename>
+    </files>
+    <languages folder="language/en-GB">
+        <language tag="en-GB">en-GB.plg_contact_ipesms.ini</language>
+        <language tag="en-GB">en-GB.plg_contact_ipesms.sys.ini</language>
+    </languages>
+    <languages folder="language/fa-IR">
+        <language tag="fa-IR">fa-IR.plg_contact_ipesms.ini</language>
+        <language tag="fa-IR">fa-IR.plg_contact_ipesms.sys.ini</language>
+    </languages>
+    <config></config>
+</extension>
