@@ -1,0 +1,2 @@
+# SMSIR-JoomlaPluginContact
+sms
